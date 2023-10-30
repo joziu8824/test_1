@@ -23,6 +23,7 @@ int main(void)
 	printf("Program start\n");
 	fun_1();
 	fun_2();
+	printf("Hello world! \n");
 	return 0;
 }
 
