@@ -6,6 +6,12 @@ void intro_fun(void)
 	return;
 }
 
+void fun_1(void) 
+{
+	printf("fun_1\n");
+	return;
+}
+
 int main(void)
 {
 	printf("Program start\n");
