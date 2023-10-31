@@ -21,6 +21,8 @@ void fun_2(void)
 int main(void)
 {
 	printf("Program start\n");
+	fun_1();
+	fun_2();
 	return 0;
 }
 
